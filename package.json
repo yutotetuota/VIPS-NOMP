@@ -31,7 +31,7 @@
         "url": "https://github.com/yutotetuota/VIPS-NOMP.git"
     },
     "dependencies": {
-        "stratum-pool": "git://github.com/yutotetuota/node-stratum-pool-tribus.git",
+        "stratum-pool": "git://github.com/yutotetuota/node-stratum-pool-vips.git",
         "dateformat": "1.0.12",
         "node-json-minify": "*",
         "redis": "0.12.1",
